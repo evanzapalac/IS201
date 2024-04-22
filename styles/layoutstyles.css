@@ -1,0 +1,31 @@
+.common{
+    background-color: #cccccc;
+    border: 2px solid;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 75px;
+    background-color: silver;
+}
+
+.mainbody{
+    top: 89px;
+    left: 5px;
+    right: 5px;
+    bottom: 15px;
+    overflow: auto;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 35px;
+    text-align: center;
+    position: fixed;
+    background-color: silver;
+}
